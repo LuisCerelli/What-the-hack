@@ -1,0 +1,25 @@
+Respuesta corta:
+Python es un lenguaje de programación de alto nivel, interpretado y de código abierto.
+ Es conocido por ser un lenguaje fácil de aprender y de usar, con una sintaxis clara y legible. 
+ Python es utilizado en una amplia variedad de aplicaciones, como desarrollo web, análisis de datos, 
+ inteligencia artificial, automatización de tareas, entre otros. Es una de las herramientas más populares
+  en el mundo de la programación debido a
+
+Penalización baja:
+Un gato es un animal doméstico de tamaño mediano, con cuerpo ágil y flexible, 
+cubierto de pelaje suave y generalmente de colores variados. Tiene ojos grandes y expresivos, 
+orejas puntiagudas y una cola larga y esponjosa. Los gatos son conocidos por su agilidad, 
+destreza y elegancia al moverse, así como por su capacidad de saltar a grandes alturas. 
+Son animales independientes y curiosos, que disfrutan explorando su entorno y cazando pequeños animales.
+ A menudo son cariñosos y juguetones con sus dueños, pero también pueden mostrarse reservados y distantes 
+ en ocasiones. Los gatos son mascotas populares en muchos hogares debido a su naturaleza tranquila y su 
+ capacidad para adaptarse fácilmente a diferentes entornos.
+
+Penalización alta:
+Un gato es un animal doméstico de tamaño mediano, con un cuerpo ágil y 
+elegante cubierto de pelaje suave y a menudo rayado o moteado. Tienen ojos grandes y brillantes, 
+orejas puntiagudas y una cola larga y esponjosa que utilizan para comunicarse. 
+Los gatos son conocidos por ser independientes, curiosos y juguetones, 
+además de ser excelentes cazadores. A menudo se les describe como misteriosos y astutos, 
+con una personalidad única y cariñosa hacia sus dueños.
+
